@@ -1,5 +1,5 @@
 ### About me
 
-Interested in Python, C++ and Linux
+I'm working in the Department of Computer Science at South Westphalia University of Applied Sciences.
 
-Co-author of the German edition of *Python for Everybody* ([www.py4e.com](https://www.py4e.com) | [GitHub](https://github.com/fh-swf-hgi/py4e))
+German edition of *Python for Everybody. Exploring Data in Python 3.* ([GitHub](https://github.com/fh-swf-hgi/py4e) | [PDF](https://do1.dr-chuck.com/pythonlearn/DE_de/pythonlearn.pdf))
